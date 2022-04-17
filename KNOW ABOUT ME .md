@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @uzicoo
 - 👀 I’m interested in Software Programming
 - 🌱 I’m currently learning Computer Science Engineering At BRAC University
-- 💞️ I’m looking to collaborate on different coders
+- 💞️ I’m looking to collaborate with different coders
 - 📫 How to reach me ( E-mail: utshozi11@gmail.com  )
 
 <!---
